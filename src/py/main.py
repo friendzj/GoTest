@@ -1,5 +1,7 @@
 # -*- coding: UTF-8 -*- 
 from protocol import *
+
+
 import SerialOpt
 import time
 import conf
