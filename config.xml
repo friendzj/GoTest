@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<conf>
-  <com>
-    <ComName>com1</ComName>
-    <ComSpeed>115200</ComSpeed>
-    <ComEnable>0</ComEnable>
-  </com>
-</conf>
